@@ -1,0 +1,10 @@
+Binary class entropy
+categorical class entropy
+
+
+how neural networks works:-
+1. define loss
+2. define optimization
+3. solve the optimization problem:
+   -> init weight
+   -> pass the network -> loss calculated -> calculated gradient
